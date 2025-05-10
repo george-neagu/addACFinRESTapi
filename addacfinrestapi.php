@@ -2,7 +2,7 @@
 /*
 Plugin Name: Add ACF in REST API
 Description: This plugin is meant to expose fields defined in advanced custom fields trough the WordPress API.
-Version: 1.0
+Version: 1.1
 Author: GN
 */
 
